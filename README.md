@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jankin Chen
 
-💻 南开大学软件工程大二学生 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
+💻 软件工程大二学生 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
 
 <img src="https://komarev.com/ghpvc/?username=Jankin-Chen123&color=blueviolet&style=flat-square" alt="Profile views" />
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **南开大学** 软件工程专业 大二在读
+- 🎓 软件工程专业 大二在读
 - 🌱 正在学习 **Web全栈开发**和 **人工智能**，后端Coding中[苍穹外卖](https://github.com/Jankin-Chen123/sky-take-out)
 - 💡 喜欢探索新技术，将创意转化为代码
 - 🎯 目标：成为一名优秀的**AI应用开发工程师**
@@ -79,11 +79,8 @@
 一款充满乐趣的2D俯视角射击游戏，玩家操控枪械击退一波又一波番茄敌人！
 
 - 🎮 **Qt Graphics View Framework** - 高性能2D渲染
-- 🎯 **WASD移动 + 鼠标瞄准射击** - 流畅的操作体验
 - 👾 **敌人AI系统** - 智能番茄敌人追踪玩家
-- ❤️ **血条系统** - 玩家和敌人都拥有可视化血条
 - 🔊 **Qt Multimedia** - 背景音乐和音效系统
-- 🕹️ **多场景管理** - 开始菜单、游戏场景、结束画面
 - 📺 **演示视频**：[Bilibili](https://www.bilibili.com/video/BV1zCEezdE3Z)
 
 ---
@@ -104,8 +101,6 @@
 - ✨ **年度榜单系统** - 歌曲/专辑/MV/艺人排行，支持一键导出Word文档
 - 🎵 **QQ音乐API集成** - 海量音乐资源，QQ扫码登录
 - 🎛️ **音频实验室** - 变调、变速处理，化身音乐制作人
-- 🎯 **Radix UI + MUI** - 现代化UI组件库
-- 📱 **响应式设计** - 沉浸式音乐体验
 - 🚀 **在线访问**：[MeloRank](https://melorank.netlify.app)
 
 ---
@@ -131,6 +126,29 @@
 
 ---
 
+### 🌱 Zerror知芽（开发中）
+**错题成长系统 | 面向中学学习场景的 AIGC 智能错题成长应用**
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/-Tencent%20COS-00A3FF?style=flat-square&logo=tencentcloud&logoColor=white)
+![OCR](https://img.shields.io/badge/-OCR%20%26%20LLM-415FFF?style=flat-square&logo=vivo&logoColor=white)
+![Cloud Sync](https://img.shields.io/badge/-Cloud%20Sync-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**技术栈：** Dart (58.9%) | Python (36.1%) | HTML (1.9%) | C++ (1.9%) 
+
+🏆 vivo × 南开大学 AIGC 创新大赛“错题都队”参赛作品
+
+- 📸 **智能错题收录** - 支持从手机相机和本地图片快速进入错题整理
+- 🧠 **AI 深度解析** - 结构化结果,高质量详解,错因再分析
+- 📝 **自我复盘与入档** - 生成错题记录，自动归类学科、topic、标签、解析和图片
+- 🌱 **复习闭环** - 把高频、易错或重点题加入收藏,练习中暴露的新错题可以继续进入档案，形成循环
+- 📊 **成长反馈** - 根据错题档案统计薄弱学科和知识点,将错题积累转化为今日任务和周复习节奏
+---
+
 ### 🥡 [sky-take-out](https://github.com/Jankin-Chen123/sky-take-out)
 **苍穹外卖（学习中） | Java企业级项目**
 
@@ -148,25 +166,6 @@
 - 🛒 **购物车功能** - 添加、删除、修改数量
 - 📦 **订单系统** - 下单、支付、配送、完成全流程
 - 🔐 **权限控制** - 用户端和管理端分离
-
----
-
-### 🐾 [pet_care](https://github.com/Jankin-Chen123/pet_care)
-**暖抓宠物洗护项目 | NestJS服务端渲染**
-
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Handlebars](https://img.shields.io/badge/Handlebars-000000?logo=handlebars.js&logoColor=white)](https://handlebarsjs.com/)
-
-**技术栈：** Handlebars (40.8%) | CSS (36.5%) | TypeScript (14.1%) | JavaScript (6.8%) | HTML (1.8%)
-
-基于Nest.js的宠物洗护网站，支持在线预约服务功能。
-
-- 🖥️ **服务端渲染(SSR)** - Handlebars模板引擎
-- 📝 **预约表单系统** - DTO字段校验，数据验证
-- 📱 **响应式设计** - 适配各种设备
-- ✅ **Jest单元测试** - 保证代码质量
-- 🎨 **现代化UI** - 精美的宠物洗护服务页面
 
 ---
 
@@ -203,7 +202,7 @@
 
 <div align="center">
 
-### 🌟 "用代码创造，用音乐点亮生活" 🌟
+### 🌟 "用代码创造，用产品点亮生活" 🌟
 
 **Thanks for visiting my profile!** 😊
 
