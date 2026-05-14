@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jankin%20Chen&fontSize=50&fontAlignY=35&animation=twinkling&desc=南开大学%20|%20软件工程%20|%20大二&descAlignY=55&descSize=20" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jankin%20Chen&fontSize=50&fontAlignY=35&animation=twinkling&desc=%20软件工程%20|%20大二&descAlignY=55&descSize=20" alt="Header" />
 
 # 👋 Hi, I'm Jankin Chen
 
