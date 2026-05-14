@@ -63,23 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jankin-Chen123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jankin-Chen123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jankin-Chen123&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 ### 🎵 [MeloRank](https://github.com/Jankin-Chen123/MeloRank)
@@ -172,13 +155,12 @@
 
 | 📖 笔记分类 | 🔗 链接 |
 |---------|-------|
-| **Python** | [查看笔记](YOUR_PYTHON_NOTION_LINK) |
-| **Web开发** | [查看笔记](YOUR_WEB_DEV_NOTION_LINK) |
-| **数据结构** | [查看笔记](YOUR_DATA_STRUCTURE_NOTION_LINK) |
-| **AI Learning** | [查看笔记](YOUR_AI_LEARNING_NOTION_LINK) |
-| **JavaSE** | [查看笔记](YOUR_JAVASE_NOTION_LINK) |
-
-> 🔗 **提示**：请将上述链接替换为你的实际Notion页面链接
+| **Python** | [查看笔记](https://carnelian-fox-ef1.notion.site/Python-2a5ef5f577fd800aa73aed19549ca771?source=copy_link) |
+| **Web开发** | [查看笔记](https://carnelian-fox-ef1.notion.site/web-26def5f577fd8091aad5d50b33c2ab87?source=copy_link) |
+| **数据结构** | [查看笔记](https://carnelian-fox-ef1.notion.site/279ef5f577fd80b49b1fffe77f0faead?source=copy_link) |
+| **AI Learning** | [查看笔记](https://carnelian-fox-ef1.notion.site/AI-Learning-31aef5f577fd80d680f0fbd85247c1f6?source=copy_link) |
+| **JavaSE** | [查看笔记](https://carnelian-fox-ef1.notion.site/JavaSE-324ef5f577fd80ab8511ee33e50d6262?source=copy_link) |
+| **数据库系统原理** | [查看笔记](https://carnelian-fox-ef1.notion.site/32aef5f577fd802b816affb54304d642?source=copy_link) |
 
 </div>
 
