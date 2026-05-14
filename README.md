@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jankin Chen
 
-💻 南开大学软件工程大二学生 | 🎵 音乐爱好者 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
+💻 南开大学软件工程大二学生 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
 
 <img src="https://komarev.com/ghpvc/?username=Jankin-Chen123&color=blueviolet&style=flat-square" alt="Profile views" />
 
