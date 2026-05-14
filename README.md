@@ -4,10 +4,7 @@
 
 # 👋 Hi, I'm Jankin Chen
 
-[![GitHub followers](https://img.shields.io/github/followers/Jankin-Chen123?style=social)](https://github.com/Jankin-Chen123)
-[![GitHub stars](https://img.shields.io/github/stars/Jankin-Chen123?style=social)](https://github.com/Jankin-Chen123)
-
-> 💻 南开大学软件工程大二学生 | 🎵 音乐爱好者 | 🎮 游戏开发探索者 | 🌐 全栈开发学习者
+> 💻 南开大学软件工程大二学生 | 🎵 音乐爱好者 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
 
 <img src="https://komarev.com/ghpvc/?username=Jankin-Chen123&color=blueviolet&style=flat-square" alt="Profile views" />
 
@@ -20,9 +17,9 @@
 - 🎓 **南开大学** 软件工程专业 大二在读
 - 🌱 正在学习 **Web全栈开发**、**软件工程** 和 **人工智能**
 - 💡 喜欢探索新技术，将创意转化为代码
-- 🎯 目标：成为一名优秀的**全栈开发工程师**
-- 🎵 热爱音乐，开发了自己的音乐平台 [MeloRank](#-featured-projects)
-- 🎮 对游戏开发充满热情，完成了首个 [Qt射击游戏](#-featured-projects)
+- 🎯 目标：成为一名优秀的**AI应用开发工程师**
+- 🎵 参与开发音乐平台 [MeloRank](https://github.com/Jankin-Chen123/MeloRank)
+- 🎮 对游戏开发充满热情，完成了 [Qt射击游戏](https://github.com/Jankin-Chen123/Tomato-Fight) ，参与制作了[基于Mediapipe的手势控制跑酷游戏](https://github.com/worstwoof/NKU-Python-Project)
 - 📫 联系我：[GitHub Issues](https://github.com/Jankin-Chen123/Jankin-Chen123/issues)
 
 ---
@@ -171,16 +168,6 @@
 <div align="center">
 
 [![Jankin-Chen123's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jankin-Chen123&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jankin-Chen123&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
