@@ -26,6 +26,30 @@
 
 ## 🎯 Featured Projects
 
+
+### 🌱 [Zerror知芽](https://github.com/worstwoof/Zerror.git)
+**错题成长系统 | 面向中学学习场景的 AIGC 智能错题成长应用**
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/-Tencent%20COS-00A3FF?style=flat-square&logo=tencentcloud&logoColor=white)
+![OCR](https://img.shields.io/badge/-OCR%20%26%20LLM-415FFF?style=flat-square&logo=vivo&logoColor=white)
+![Cloud Sync](https://img.shields.io/badge/-Cloud%20Sync-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**技术栈：** Dart (58.9%) | Python (36.1%) | HTML (1.9%) | C++ (1.9%) 
+
+🏆 vivo × 南开大学 AIGC 创新大赛“错题都队”参赛作品
+
+- 📸 **智能错题收录** - 支持从手机相机和本地图片快速进入错题整理
+- 🧠 **AI 深度解析** - 结构化结果,高质量详解,错因再分析
+- 📝 **自我复盘与入档** - 生成错题记录，自动归类学科、topic、标签、解析和图片
+- 🌱 **复习闭环** - 把高频、易错或重点题加入收藏,练习中暴露的新错题可以继续进入档案，形成循环
+- 📊 **成长反馈** - 根据错题档案统计薄弱学科和知识点,将错题积累转化为今日任务和周复习节奏
+---
+
 ### 🍅 [Tomato-Fight](https://github.com/Jankin-Chen123/Tomato-Fight)
 **大一C++大作业 | 2D俯视角射击游戏**
 
@@ -83,29 +107,6 @@
 - 🚀 **一键部署体验** - `Launcher.bat`自动编排AI进程与游戏进程
 - 🎮 **操作方式** - 无需外设，仅需摄像头：手掌移动控制方向，快速上抬跳跃，握拳攻击
 
----
-
-### 🌱 Zerror知芽（开发中）
-**错题成长系统 | 面向中学学习场景的 AIGC 智能错题成长应用**
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Tencent Cloud](https://img.shields.io/badge/-Tencent%20COS-00A3FF?style=flat-square&logo=tencentcloud&logoColor=white)
-![OCR](https://img.shields.io/badge/-OCR%20%26%20LLM-415FFF?style=flat-square&logo=vivo&logoColor=white)
-![Cloud Sync](https://img.shields.io/badge/-Cloud%20Sync-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**技术栈：** Dart (58.9%) | Python (36.1%) | HTML (1.9%) | C++ (1.9%) 
-
-🏆 vivo × 南开大学 AIGC 创新大赛“错题都队”参赛作品
-
-- 📸 **智能错题收录** - 支持从手机相机和本地图片快速进入错题整理
-- 🧠 **AI 深度解析** - 结构化结果,高质量详解,错因再分析
-- 📝 **自我复盘与入档** - 生成错题记录，自动归类学科、topic、标签、解析和图片
-- 🌱 **复习闭环** - 把高频、易错或重点题加入收藏,练习中暴露的新错题可以继续进入档案，形成循环
-- 📊 **成长反馈** - 根据错题档案统计薄弱学科和知识点,将错题积累转化为今日任务和周复习节奏
 ---
 
 ### 🥡 [sky-take-out](https://github.com/Jankin-Chen123/sky-take-out)
