@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jankin Chen
 
-> 💻 南开大学软件工程大二学生 | 🎵 音乐爱好者 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
+💻 南开大学软件工程大二学生 | 🎵 音乐爱好者 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
 
 <img src="https://komarev.com/ghpvc/?username=Jankin-Chen123&color=blueviolet&style=flat-square" alt="Profile views" />
 
@@ -15,11 +15,11 @@
 ## 🚀 About Me
 
 - 🎓 **南开大学** 软件工程专业 大二在读
-- 🌱 正在学习 **Web全栈开发**、**软件工程** 和 **人工智能**
+- 🌱 正在学习 **Web全栈开发**和 **人工智能**，后端Coding中[苍穹外卖](https://github.com/Jankin-Chen123/sky-take-out)
 - 💡 喜欢探索新技术，将创意转化为代码
 - 🎯 目标：成为一名优秀的**AI应用开发工程师**
 - 🎵 参与开发音乐平台 [MeloRank](https://github.com/Jankin-Chen123/MeloRank)
-- 🎮 对游戏开发充满热情，完成了 [Qt射击游戏](https://github.com/Jankin-Chen123/Tomato-Fight) ，参与制作了[基于Mediapipe的手势控制跑酷游戏](https://github.com/worstwoof/NKU-Python-Project)
+- 🎮 对游戏开发充满热情，利用Qt平台制作了射击小游戏 [Tomato Fight](https://github.com/Jankin-Chen123/Tomato-Fight) ，参与制作了基于**MediaPipe**的手势识别跑酷游戏[Cyber Smash](https://github.com/worstwoof/NKU-Python-Project)
 - 📫 联系我：[GitHub Issues](https://github.com/Jankin-Chen123/Jankin-Chen123/issues)
 
 ---
@@ -34,9 +34,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/-Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -45,9 +42,16 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### Database & Cloud
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### AI & Game Dev
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,7 +64,29 @@
 
 ---
 
+
 ## 🎯 Featured Projects
+
+### 🍅 [Tomato-Fight](https://github.com/Jankin-Chen123/Tomato-Fight)
+**大一C++大作业 | 2D俯视角射击游戏**
+
+[![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)](https://www.qt.io/)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)](https://cmake.org/)
+
+**技术栈：** C++ (49.9%) | Makefile (49.6%) | CMake | C
+
+一款充满乐趣的2D俯视角射击游戏，玩家操控枪械击退一波又一波番茄敌人！
+
+- 🎮 **Qt Graphics View Framework** - 高性能2D渲染
+- 🎯 **WASD移动 + 鼠标瞄准射击** - 流畅的操作体验
+- 👾 **敌人AI系统** - 智能番茄敌人追踪玩家
+- ❤️ **血条系统** - 玩家和敌人都拥有可视化血条
+- 🔊 **Qt Multimedia** - 背景音乐和音效系统
+- 🕹️ **多场景管理** - 开始菜单、游戏场景、结束画面
+- 📺 **演示视频**：[Bilibili](https://www.bilibili.com/video/BV1zCEezdE3Z)
+
+---
 
 ### 🎵 [MeloRank](https://github.com/Jankin-Chen123/MeloRank)
 **大二前端项目 | 创新音乐平台**
@@ -84,32 +110,34 @@
 
 ---
 
-### 🍅 [Tomato-Fight](https://github.com/Jankin-Chen123/Tomato-Fight)
-**大一C++大作业 | 2D俯视角射击游戏**
+### 🦖 [Cyber Smash](https://github.com/worstwoof/NKU-Python-Project)
+**大二Python课程项目 | AI体感3D跑酷游戏**
 
-[![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)](https://www.qt.io/)
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)](https://cmake.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white)](https://mediapipe.dev/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 
-**技术栈：** C++ (49.9%) | Makefile (49.6%) | CMake | C
+**技术栈：** Python (62.9%) | Tcl (34.9%) | GDScript | JavaScript | CSS | HTML
 
-一款充满乐趣的2D俯视角射击游戏，玩家操控枪械击退一波又一波番茄敌人！
+一款融合了**赛博朋克风格**与**体感交互技术**的3D无尽跑酷游戏。使用Python MediaPipe捕捉玩家手势动作，通过UDP协议实时驱动Godot引擎中的体素怪兽！
 
-- 🎮 **Qt Graphics View Framework** - 高性能2D渲染
-- 🎯 **WASD移动 + 鼠标瞄准射击** - 流畅的操作体验
-- 👾 **敌人AI系统** - 智能番茄敌人追踪玩家
-- ❤️ **血条系统** - 玩家和敌人都拥有可视化血条
-- 🔊 **Qt Multimedia** - 背景音乐和音效系统
-- 🕹️ **多场景管理** - 开始菜单、游戏场景、结束画面
-- 📺 **演示视频**：[Bilibili](https://www.bilibili.com/video/BV1zCEezdE3Z)
+- 👋 **AI视觉体感控制** - OpenCV + MediaPipe实现低延迟手势识别
+- 🔌 **跨进程通信架构** - Python与Godot通过UDP Socket (Port 4242)解耦通信
+- ♾️ **程序化地图生成** - 基于Chunk的无限地图生成算法 + 对象池技术
+- 🎨 **独家体素美术** - 原创哥斯拉主角模型与赛博城市场景
+- 🚀 **一键部署体验** - `Launcher.bat`自动编排AI进程与游戏进程
+- 🎮 **操作方式** - 无需外设，仅需摄像头：手掌移动控制方向，快速上抬跳跃，握拳攻击
 
 ---
 
 ### 🥡 [sky-take-out](https://github.com/Jankin-Chen123/sky-take-out)
-**苍穹外卖 | Java企业级项目**
+**苍穹外卖（学习中） | Java企业级项目**
 
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **技术栈：** Java (100%)
 
@@ -132,7 +160,7 @@
 
 **技术栈：** Handlebars (40.8%) | CSS (36.5%) | TypeScript (14.1%) | JavaScript (6.8%) | HTML (1.8%)
 
-基于Nest.js的宠物洗护单页网站，支持在线预约服务功能。
+基于Nest.js的宠物洗护网站，支持在线预约服务功能。
 
 - 🖥️ **服务端渲染(SSR)** - Handlebars模板引擎
 - 📝 **预约表单系统** - DTO字段校验，数据验证
@@ -152,12 +180,12 @@
 
 | 📖 笔记分类 | 🔗 链接 |
 |---------|-------|
-| **Python** | [查看笔记](https://carnelian-fox-ef1.notion.site/Python-2a5ef5f577fd800aa73aed19549ca771?source=copy_link) |
-| **Web开发** | [查看笔记](https://carnelian-fox-ef1.notion.site/web-26def5f577fd8091aad5d50b33c2ab87?source=copy_link) |
-| **数据结构** | [查看笔记](https://carnelian-fox-ef1.notion.site/279ef5f577fd80b49b1fffe77f0faead?source=copy_link) |
-| **AI Learning** | [查看笔记](https://carnelian-fox-ef1.notion.site/AI-Learning-31aef5f577fd80d680f0fbd85247c1f6?source=copy_link) |
-| **JavaSE** | [查看笔记](https://carnelian-fox-ef1.notion.site/JavaSE-324ef5f577fd80ab8511ee33e50d6262?source=copy_link) |
-| **数据库系统原理** | [查看笔记](https://carnelian-fox-ef1.notion.site/32aef5f577fd802b816affb54304d642?source=copy_link) |
+| **Python** | [查看笔记](https://carnelian-fox-ef1.notion.site/Python-2a5ef5f577fd800aa73aed19549ca771) |
+| **Web开发** | [查看笔记](https://carnelian-fox-ef1.notion.site/web-26def5f577fd8091aad5d50b33c2ab87) |
+| **数据结构** | [查看笔记](https://carnelian-fox-ef1.notion.site/279ef5f577fd80b49b1fffe77f0faead) |
+| **AI Learning** | [查看笔记](https://carnelian-fox-ef1.notion.site/AI-Learning-31aef5f577fd80d680f0fbd85247c1f6) |
+| **JavaSE** | [查看笔记](https://carnelian-fox-ef1.notion.site/JavaSE-324ef5f577fd80ab8511ee33e50d6262) |
+| **数据库系统原理** | [查看笔记](https://carnelian-fox-ef1.notion.site/32aef5f577fd802b816affb54304d642) |
 
 </div>
 
@@ -168,16 +196,6 @@
 <div align="center">
 
 [![Jankin-Chen123's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jankin-Chen123&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jankin-Chen123)
 
 </div>
 
