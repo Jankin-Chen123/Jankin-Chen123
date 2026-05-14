@@ -27,7 +27,7 @@
 ## 🎯 Featured Projects
 
 
-### 🌱 [Zerror知芽](https://github.com/worstwoof/Zerror.git)
+### 🌱 [Zerror知芽（开发中）](https://github.com/worstwoof/Zerror.git)
 **错题成长系统 | 面向中学学习场景的 AIGC 智能错题成长应用**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
