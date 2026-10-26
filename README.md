@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 软件工程专业 大三在读
-- 🌱 正在学习 **Web全栈开发**和 **机器学习**，后端Coding中[Infinite Chat](https://github.com/Jankin-Chen123/sky-take-out)
+- 🌱 正在学习 **Web全栈开发**和 **机器学习**，后端Coding中[Infinite Chat]([https://github.com/Jankin-Chen123/InfiniteChat])
 - 💡 喜欢探索新技术，将创意转化为代码
 - 🎯 目标：成为一名优秀的**AI应用开发工程师**
 ---
