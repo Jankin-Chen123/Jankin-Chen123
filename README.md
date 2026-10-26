@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jankin Chen
 
-💻 软件工程大二学生 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
+💻 软件工程大三 | 🎉 Vibe Coding探索者 | 🌐 后端开发学习者
 
 <img src="https://komarev.com/ghpvc/?username=Jankin-Chen123&color=blueviolet&style=flat-square" alt="Profile views" />
 
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-- 🎓 软件工程专业 大二在读
-- 🌱 正在学习 **Web全栈开发**和 **人工智能**，后端Coding中[苍穹外卖](https://github.com/Jankin-Chen123/sky-take-out)
+- 🎓 软件工程专业 大三在读
+- 🌱 正在学习 **Web全栈开发**和 **机器学习**，后端Coding中[Infinite Chat](https://github.com/Jankin-Chen123/sky-take-out)
 - 💡 喜欢探索新技术，将创意转化为代码
 - 🎯 目标：成为一名优秀的**AI应用开发工程师**
 - 🎵 参与开发音乐平台 [MeloRank](https://github.com/Jankin-Chen123/MeloRank)
-- 🎮 对游戏开发充满热情，利用Qt平台制作了射击小游戏 [Tomato Fight](https://github.com/Jankin-Chen123/Tomato-Fight) ，参与制作了基于**MediaPipe**的手势识别跑酷游戏[Cyber Smash](https://github.com/worstwoof/NKU-Python-Project)
+- 🎮 参与制作了基于**MediaPipe**的手势识别跑酷游戏[Cyber Smash](https://github.com/worstwoof/NKU-Python-Project)
 - 📫 联系我：[GitHub Issues](https://github.com/Jankin-Chen123/Jankin-Chen123/issues)
 
 ---
@@ -27,7 +27,7 @@
 ## 🎯 Featured Projects
 
 
-### 🌱 [Zerror知芽（开发中）](https://github.com/worstwoof/Zerror.git)
+### 🌱 [Zerror知芽](https://github.com/worstwoof/Zerror.git)
 **错题成长系统 | 面向中学学习场景的 AIGC 智能错题成长应用**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
