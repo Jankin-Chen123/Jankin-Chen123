@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jankin%20Chen&fontSize=50&fontAlignY=35&animation=twinkling&desc=%20软件工程%20|%20大二&descAlignY=55&descSize=20" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jankin%20Chen&fontSize=50&fontAlignY=35&animation=twinkling&desc=%20软件工程%20|%20大三&descAlignY=55&descSize=20" alt="Header" />
 
 # 👋 Hi, I'm Jankin Chen
 
@@ -44,8 +44,6 @@
 - 📝 **自我复盘与入档** - 生成错题记录，自动归类学科、topic、标签、解析和图片
 - 🌱 **复习闭环** - 把高频、易错或重点题加入收藏,练习中暴露的新错题可以继续进入档案，形成循环
 - 📊 **成长反馈** - 根据错题档案统计薄弱学科和知识点,将错题积累转化为今日任务和周复习节奏
----
-
 ---
 
 ## 📝 Knowledge Notes
